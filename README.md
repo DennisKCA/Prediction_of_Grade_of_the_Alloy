@@ -4,4 +4,4 @@ Manufacturing of any alloy is not a simple process. Many complicated factors are
 Content
 Given are 28 distinguishing factors in the manufacturing of an alloy, the objective is to build a Machine Learning model that can predict the grade of the product using these factors.
 
-You are provided with 28 anonymized factors (f0 to f27) that influence the making of a perfect alloy that is to be used for various applications based on the grade/quality of the obtained product.
+We are provided with 28 anonymized factors (f0 to f27) that influence the making of a perfect alloy that is to be used for various applications based on the grade/quality of the obtained product.
